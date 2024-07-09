@@ -1,7 +1,7 @@
 # co-fundamentals
 
 
-#javascrpt
+# javascrpt
 Question What is ?
 1. console.log
 2. message, output, response, input, request
@@ -10,7 +10,7 @@ Question What is ?
 5. function
 6. function type
    
-#Basic Javscript
+# Basic Javscript
 1. Variables
 2. Data Type
 3. Function & Function Type
