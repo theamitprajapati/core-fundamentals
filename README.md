@@ -2,7 +2,7 @@
 
 
 # javascrpt
-Question What is ?
+Question What is?
 1. console.log
 2. message, output, response, input, request
 3. datatype
@@ -10,7 +10,7 @@ Question What is ?
 5. function
 6. function type
    
-# Basic Javscript
+# Basic Javascript
 1. Variables
 2. Data Type
 3. Function & Function Type
