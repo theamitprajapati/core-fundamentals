@@ -1,4 +1,4 @@
-# Core-Fundamentals
+# CORE-FUNDAMENTALS
 
 
 # BIP
@@ -65,21 +65,21 @@ Question What is?
 14. Immutability
 15. Function composition
 16. Currying and partial application
-# Design Patterns
+# DESIGN PATTERNS
 1. Singleton
 2. Module
 3. Factory
 4. Observer
 5. Strategy
 6. Decorator
-# Error Handling and Debugging
+# ERROR HANDLING AND DEBUGGING
 1. try...catch and finally
 2. Custom error types
 3. Debugging techniques and tools
-# Regular Expressions
+# REGULAR EXPRESSIONS
 1. Syntax and flags
 2. Common patterns and use cases
-# Storage
+# STORAGE
 1. Web Storage API (localStorage and sessionStorage)
 2. Service Workers and Progressive Web Apps (PWAs)
 
