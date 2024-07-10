@@ -1,4 +1,4 @@
-# Co-Fundamentals
+# Core-Fundamentals
 
 
 # javascrpt
