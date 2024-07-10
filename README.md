@@ -17,11 +17,12 @@ Question What is?
 5. CONDITION: Conditional statements (if, else if, else, switch)
 6. LOOPING: Looping statements (for, while, do...while, for...in, for...of)
 7. Data types: String, Number, Boolean, Null, Undefined, Object, Symbol
+8. Function
 
 # BASIC JAVASCRIPT
-8. Declaring variables (var, let, const)
-9. Scope & Scope Type
-10. ARRAY: Creating and manipulating arrays
+9. Declaring variables (var, let, const)
+10. Scope & Scope Type
+11. ARRAY: Creating and manipulating arrays
 11. ARRAY: Common array methods (push, pop, shift, unshift, map, filter, reduce, etc.)
 12. OBJECT: Creating objects
 13. OBJECT: Accessing and modifying properties
